@@ -10,8 +10,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 ## 🔗 Links
 
- - [App Link](https://sudhanshu2198-titanic-survival-prediction-a-introduction-vigidy.streamlit.app/)
- - [Kaggle Notebook link](https://www.kaggle.com/code/sudhanshu2198/end-to-end-titanic-survival-prediction-app?scriptVersionId=120569132)
+- [Kaggle Datasets link](https://www.kaggle.com/competitions/titanic)
 
 
 ## 🛠 Skills
@@ -42,7 +41,7 @@ Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Streamlit, Git
 Clone the project
 
 ```bash
-  git clone https://github.com/sudhanshu2198/Titanic-Survival-Prediction-App
+  git clone https://github.com/Anas436/Titanic-Survival-Prediction-App
 ```
 
 Change to project directory
