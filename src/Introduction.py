@@ -5,13 +5,13 @@ import os
 from matplotlib import image
 
 st.title("Titanic Survival Prediction")
-st.subheader("Sudhanshu Rastogi")
+st.subheader("Md. Anas Mondol")
 col1,col2=st.columns(2)
 with col1:
-    github="https://github.com/sudhanshu2198"
+    github="https://github.com/Anas436"
     var1=st.write("Github Profile Link: {}".format(github))
 with col2:
-    kaggle="https://www.kaggle.com/sudhanshu2198"
+    kaggle="#"
     var1=st.write("Kaggle Link: {}".format(kaggle))
 
 file_dir=os.path.dirname(os.path.abspath(__file__))
